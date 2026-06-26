@@ -6,17 +6,6 @@ I'm a backend engineer specializing in **FinTech, payments, and bank integration
 
 ---
 
-## 🚀 About Me
-
-* Backend engineer focused on FinTech and payment infrastructure.
-* Strong believer in clean architecture, reusability, and TDD.
-* Experienced in building bank integrations with JPM, SVB, Wells Fargo, BOA, and more.
-* Skilled in designing modular service classes using **SOLID principles**.
-* Comfortable working in fast-paced startup environments.
-* Built secure SDKs (JS + Swift) for tokenized payment collection.
-
----
-
 
 ## 🛠️ Tech Stack
 

@@ -34,4 +34,3 @@ I'm a backend engineer specializing in **FinTech, payments, and bank integration
 
 ---
 
-⭐️ *Thanks for visiting! Feel free to explore my repositories.*
